@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/Z1NWnT4/images-12.jpg",
+      "treatment": "Teeth Cleaning",
+      "description": "Our professional teeth cleaning services help to remove built-up plaque and tartar while polishing your teeth for a brighter, healthier smile. This procedure prevents cavities and gum diseases effectively.",
+      "cost": 50
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/QcFzV1G/images-11.jpg",
+      "treatment": "Root Canal",
+      "description": "A root canal treatment is designed to save a tooth that is badly decayed or infected. The procedure involves removing the damaged pulp, cleaning the canal, and sealing it to restore functionality.",
+      "cost": 200
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/860p3rQ/images-10.jpg",
+      "treatment": "Tooth Extraction",
+      "description": "Tooth extraction involves safely removing a severely damaged or decayed tooth. Our experts ensure a painless experience while offering guidance for post-extraction care and quick recovery.",
+      "cost": 75
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/10fFzNf/images-9.jpg",
+      "treatment": "Braces",
+      "description": "Braces are used for orthodontic treatments to straighten and align your teeth. This improves your smile and also enhances overall oral health by correcting bite issues and jaw alignment.",
+      "cost": 1500
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/4gtnLgz/happy-cute-kid-go-to-dentist-check-164772489.webp",
+      "treatment": "Dental Implants",
+      "description": "Dental implants are a permanent and effective solution for missing teeth. These provide a natural look, improve speech, and allow you to chew food comfortably while enhancing your facial aesthetics.",
+      "cost": 2500
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/QbfkR5h/Dentist-or-Orthodontist-1-1024x1024.webp",
+      "treatment": "Teeth Whitening",
+      "description": "Get a radiant smile with our professional teeth whitening services. This procedure removes tough stains caused by coffee, tea, or smoking, giving you visibly whiter and brighter teeth in just one session.",
+      "cost": 100
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/5hC2mcK/female-dentists-joining-a-dental-practice-525x350.webp",
+      "treatment": "Dental Fillings",
+      "description": "Dental fillings are used to repair cavities and minor fractures. Our fillings are durable and designed to blend seamlessly with your natural teeth, ensuring both functionality and aesthetics.",
+      "cost": 120
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/Xj7HrCp/images-8.jpg",
+      "treatment": "Gum Treatment",
+      "description": "Our comprehensive gum treatment addresses issues like gum inflammation, bleeding, or periodontitis. We focus on restoring gum health, preventing tooth loss, and ensuring a strong oral foundation.",
+      "cost": 180
+    }
+  ]
+  

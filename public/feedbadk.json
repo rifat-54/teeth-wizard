@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Green",
+      "image": "https://i.ibb.co.com/NYfKnY1/images-14.jpg",
+      "review": "Dr. Sarah was incredibly patient and ensured I felt no pain during the entire process. I highly recommend her for anyone nervous about dental visits!"
+    },
+    {
+      "id": 2,
+      "name": "Brian Taylor",
+      "image": "https://i.ibb.co.com/s9WdDch/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIz-LTA4-L3-Jhd3-Bpe-GVs-X29m-Zmlj-ZV8y-X3-Bob3-Rv-X29m.webp",
+      "review": "Dr. John was very thorough and explained each step of the procedure in detail, which made me feel very comfortable and informed throughout."
+    },
+    {
+      "id": 3,
+      "name": "Catherine White",
+      "image": "https://i.ibb.co.com/bRv7jwM/images-13.jpg",
+      "review": "The staff was friendly, and Dr. Emily did an amazing job with my treatment. The environment was calming, and I never felt rushed or ignored."
+    },
+    {
+      "id": 4,
+      "name": "David Black",
+      "image": "https://i.ibb.co.com/k4FNGCD/girl-6173216-960-720.jpg",
+      "review": "Dr. Michael was attentive and professional. He took his time to address all my concerns, and the results were beyond my expectations. Fantastic service!"
+    },
+    {
+      "id": 5,
+      "name": "Ella Brown",
+      "image": "https://i.ibb.co.com/p1wD3Gy/outdoor-close-up-portrait-cute-young-black-girl-african-p-smiling-people-30878664.webp",
+      "review": "Dr. Olivia's gentle approach made me feel at ease despite my anxiety. She carefully explained every step, and I am very happy with the results."
+    },
+    {
+      "id": 6,
+      "name": "Frank Wilson",
+      "image": "https://i.ibb.co.com/QKNM3Vc/smiling-bearded-young-male-model-260nw-788313199.webp",
+      "review": "Dr. Daniel and his team provided exceptional care. The clinic was clean, the process was seamless, and I genuinely appreciated their attention to detail."
+    }
+  ]
+  
